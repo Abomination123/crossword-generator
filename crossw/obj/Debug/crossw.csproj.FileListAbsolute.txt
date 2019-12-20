@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\crossw\crossw\bin\Debug\crossw.exe.config
+C:\Users\Дмитрий\source\repos\crossw\crossw\bin\Debug\crossw.exe
+C:\Users\Дмитрий\source\repos\crossw\crossw\bin\Debug\crossw.pdb
+C:\Users\Дмитрий\source\repos\crossw\crossw\obj\Debug\crossw.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\crossw\crossw\obj\Debug\crossw.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\crossw\crossw\obj\Debug\crossw.exe
+C:\Users\Дмитрий\source\repos\crossw\crossw\obj\Debug\crossw.pdb
