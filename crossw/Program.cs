@@ -13,7 +13,7 @@ namespace crossw
 
             List<String> slova = new List<string>();
             List<String> blackList = new List<string>();
-            using (StreamReader sr = new StreamReader(@"C:\Users\Дмитрий\spisok.txt"))
+            using (StreamReader sr = new StreamReader(@"C:\FileWithWordsDestination"))
             {
                 while (!sr.EndOfStream)
                     foreach (string s in sr.ReadLine().Split(' '))
